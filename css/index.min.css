@@ -2228,7 +2228,7 @@ html[dir=rtl] #scrollTrigger {
     }
 
     .hero_header .text {
-        max-width: 470px
+        max-width: 435px
     }
 
     .hero_main {
@@ -3512,7 +3512,7 @@ html[dir=rtl] .footer_main-block_nav .list-item .link .icon {
     }
 
     .footer_secondary-copyright {
-        max-width: 350px
+        max-width: 500px
     }
 }
 
