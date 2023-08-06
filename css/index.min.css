@@ -667,8 +667,8 @@ input[type=checkbox]+label .icon {
 }
 
 .brand_logo {
-    width: 30px;
-    height: 31px
+    width: 68px;
+    height: 33px
 }
 
 .tags {
@@ -2094,7 +2094,7 @@ html[dir=rtl] #scrollTrigger {
     }
 
     .hero_header {
-        max-width: 550px
+        max-width: 420px
     }
 
     .hero_media {
